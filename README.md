@@ -11,7 +11,6 @@ Vue Peek Extension
 Vue 2 Snippets Extension    
 Vue 3 Snippets      
 Vue Devtools   
-
 ----
 
 node 8.9.1    
